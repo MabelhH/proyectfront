@@ -1,0 +1,14 @@
+{
+  "name": "proyect003",
+  "version": "1.0.0",
+  "description": "proyecto jueves ",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "MabelhH",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
